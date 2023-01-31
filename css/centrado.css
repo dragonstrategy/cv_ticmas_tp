@@ -1,0 +1,112 @@
+
+.container{
+padding: 0px;
+}
+
+#lateral{
+    background-color: black;
+    color: orange;
+    text-align: right;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+#barra_de_navegacion{
+    background-color: black;
+    text-align: center;
+    color: black;
+    margin-top: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#centro{
+    padding-left: 20px;
+    border-right: 2px solid black;
+}
+
+#pie_de_pagina {
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: orange;
+    background-color: black;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#foto_carnet{
+    border-radius: 15px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#linea{
+    border-bottom: 2px solid grey;
+    margin-top: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#linea2{
+    border-bottom: 2px solid grey;
+}
+
+#caja_de_navegacion{
+    border: 2px solid orange;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: orange;
+    display:inline-block;
+    padding: 4px;
+}
+
+a {
+    color: black;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+#formulario_de_contacto{
+    text-align: left;
+}
+
+#test{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#sociales{
+    color: orange;
+    padding-left: 4px;
+}
+
+#formulario_contacto{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 4px;
+}
+
+#nombre_nav{
+    text-align: right;
+    color: orange;
+    margin-top: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#form{
+    margin-bottom: 10px;
+}
+
