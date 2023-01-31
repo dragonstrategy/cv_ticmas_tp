@@ -1,2 +1,1 @@
-# CV_ticmas
- Tp final curso ticmas
+# cv_ticmas_tp
